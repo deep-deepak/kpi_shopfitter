@@ -1,7 +1,7 @@
 {
     "shop-fronts-aluminium": {
         "heroSection": {
-            "image": "/images/service1.avif",
+            "image": "/kpimages/29b2be66-e944-49ef-8f8b-057241f666c5.jpg",
             "title": "Modern Aluminium Shopfront Solutions",
             "description": [
                 "High-quality aluminium shopfronts designed for strength and contemporary style.",
@@ -36,33 +36,33 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service2.jpg",
-                    "alt": "Contemporary aluminium shopfront"
+                    "image": "/kpimages/bb2bda6e-1ee1-48e0-8df0-e23c567cd3b8.jpg",
+                    "alt": "Glass shopfront installation"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service3.avif",
-                    "alt": "Sleek aluminium storefront design"
+                    "image": "/kpimages/f528730f-32fb-4546-8739-fba7d3e5e2fe.jpg",
+                    "alt": "Aluminium shopfront being fitted"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service4.avif",
-                    "alt": "Durable aluminium shopfront"
+                    "image": "/kpimages/7c7f314b-0c0c-4b6b-a64f-ba6df2263e11.jpg",
+                    "alt": "Shopfront refurbishment in progress"
                 },
                 {
                     "id": 4,
-                    "image": "/images/service5.avif",
-                    "alt": "Custom-designed aluminium shopfront"
+                    "image": "/kpimages/e57720b0-29a4-43a7-8f83-1e03c15f84ae.jpg",
+                    "alt": "Commercial shopfront fitting"
                 },
                 {
                     "id": 5,
-                    "image": "/images/service6.avif",
-                    "alt": "Elegant aluminium shopfront in a commercial space"
+                    "image": "/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg",
+                    "alt": "Completed aluminium shopfront"
                 },
                 {
                     "id": 6,
-                    "image": "/images/service7.avif",
-                    "alt": "Minimalist aluminium shopfront design"
+                    "image": "/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg",
+                    "alt": "Modern aluminium shopfront with automatic door"
                 }
             ]
         },
@@ -71,7 +71,7 @@
     },
     "shop-fronts-glass": {
         "heroSection": {
-            "image": "/images/service5.avif",
+            "image": "/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg",
             "title": "Stylish Glass Shopfront Solutions",
             "description": [
                 "Elegant glass shopfronts designed to enhance visibility and modern appeal.",
@@ -107,33 +107,33 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service6.avif",
-                    "alt": "Transparent glass shopfront"
+                    "image": "/kpimages/29b2be66-e944-49ef-8f8b-057241f666c5.jpg",
+                    "alt": "Glass shopfront completed"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service7.avif",
-                    "alt": "Modern glass storefront design"
+                    "image": "/kpimages/6c9443b4-f4d2-445a-8d6c-d87d5dadd2c7.jpg",
+                    "alt": "Clean glass sliding door shopfront"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service8.avif",
-                    "alt": "Custom glass shopfront solution"
+                    "image": "/kpimages/bb2bda6e-1ee1-48e0-8df0-e23c567cd3b8.jpg",
+                    "alt": "Glass shopfront alternative view"
                 },
                 {
                     "id": 4,
-                    "image": "/images/service9.avif",
-                    "alt": "Frameless glass shopfront design"
+                    "image": "/kpimages/f528730f-32fb-4546-8739-fba7d3e5e2fe.jpg",
+                    "alt": "Glass shopfront installation in progress"
                 },
                 {
                     "id": 5,
-                    "image": "/images/service10.avif",
-                    "alt": "Tempered glass shopfront in a retail space"
+                    "image": "/kpimages/e57720b0-29a4-43a7-8f83-1e03c15f84ae.jpg",
+                    "alt": "Glass shopfront fitting"
                 },
                 {
                     "id": 6,
-                    "image": "/images/service11.avif",
-                    "alt": "Premium glass shopfront with signage"
+                    "image": "/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg",
+                    "alt": "Commercial glass shopfront"
                 }
             ]
         },
@@ -142,7 +142,7 @@
     },
     "shop-fronts-timber": {
         "heroSection": {
-            "image": "/images/pageheading.jpg",
+            "image": "/kpimages/7c7f314b-0c0c-4b6b-a64f-ba6df2263e11.jpg",
             "title": "Elegant Timber Shopfront Solutions",
             "description": [
                 "Premium timber shopfront designs tailored to enhance commercial aesthetics.",
@@ -166,18 +166,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service10.avif",
-                    "alt": "Classic timber shopfront"
+                    "image": "/kpimages/e57720b0-29a4-43a7-8f83-1e03c15f84ae.jpg",
+                    "alt": "Shopfront refurbishment"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service11.avif",
-                    "alt": "Modern timber shopfront design"
+                    "image": "/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg",
+                    "alt": "Commercial shopfront installation"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service12.jpg",
-                    "alt": "Custom wooden shopfront"
+                    "image": "/kpimages/f528730f-32fb-4546-8739-fba7d3e5e2fe.jpg",
+                    "alt": "Shopfront fitting in progress"
                 }
             ]
         },
@@ -186,7 +186,7 @@
     },
     "shop-fronts-automatic-doors": {
         "heroSection": {
-            "image": "/images/service13.avif",
+            "image": "/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg",
             "title": "Innovative Automatic Door Shopfronts",
             "description": [
                 "Seamless and modern automatic door systems for efficient customer flow.",
@@ -210,18 +210,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service14.jpg",
-                    "alt": "Sleek automatic glass door shopfront"
+                    "image": "/kpimages/6c9443b4-f4d2-445a-8d6c-d87d5dadd2c7.jpg",
+                    "alt": "Automatic sliding glass door shopfront"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service15.avif",
-                    "alt": "Modern automatic sliding doors"
+                    "image": "/kpimages/29b2be66-e944-49ef-8f8b-057241f666c5.jpg",
+                    "alt": "Glass shopfront with automatic door"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service16.avif",
-                    "alt": "Custom automatic door shopfront"
+                    "image": "/kpimages/bb2bda6e-1ee1-48e0-8df0-e23c567cd3b8.jpg",
+                    "alt": "Modern automatic shopfront installation"
                 }
             ]
         },
@@ -230,7 +230,7 @@
     },
     "shutters-perforated": {
         "heroSection": {
-            "image": "/images/service17.avif",
+            "image": "/kpimages/07cd9cea-9e73-4dbd-804e-87ba49529d91.jpg",
             "title": "Durable Perforated Shutters",
             "description": [
                 "Secure and stylish perforated shutters for ventilation and visibility.",
@@ -254,18 +254,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service18.avif",
-                    "alt": "Perforated shutter with modern design"
+                    "image": "/kpimages/119a8855-c478-489e-8c6d-cf1802cfbcf9.jpg",
+                    "alt": "Aluminium louvre shutter close-up"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service19.jpg",
-                    "alt": "Durable perforated roller shutters"
+                    "image": "/kpimages/97dd5a59-5b6e-4404-a3fc-fa257b9e7a0d.jpg",
+                    "alt": "Large perforated shutter wall installation"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service20.avif",
-                    "alt": "Stylish perforated shutter installation"
+                    "image": "/kpimages/49f649b6-7068-4fc8-9d7c-e25d9aa18556.jpg",
+                    "alt": "Coloured aluminium shutter frames"
                 }
             ]
         },
@@ -274,7 +274,7 @@
     },
     "shutters-punched": {
         "heroSection": {
-            "image": "/images/service21.avif",
+            "image": "/kpimages/743a8b86-a44d-4f84-9ed0-611e55dc4f33.jpg",
             "title": "Stylish Punched Shutters",
             "description": [
                 "Elegant punched shutters designed for ventilation and visibility.",
@@ -298,27 +298,27 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service22.jpg",
-                    "alt": "Modern punched shutter design"
+                    "image": "/kpimages/878bf69e-c100-480f-a46f-45f69d75cc76.jpg",
+                    "alt": "Roller shutter on retail shop"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service23.jpg",
-                    "alt": "Punched roller shutter for retail"
+                    "image": "/kpimages/99aaa463-5a92-4603-819f-0ce65939bba2.jpg",
+                    "alt": "Commercial roller shutter installation"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service24.jpg",
-                    "alt": "Stylish punched shutter installation"
+                    "image": "/kpimages/2cff9c8c-e49a-4f36-87a2-47d79fc70387.jpg",
+                    "alt": "Building with roller shutters"
                 }
             ]
         },
-        "title": "Rolling Shutter Repair at  KPI Shopfitter",
+        "title": "Rolling Shutter Repair at KPI Shopfitter",
         "description": "KPI Shopfitter offers high-quality shutter parts, professional shutter servicing, and expert rolling shutter repair. Emergency repairs available 24/7!"
     },
     "shutters-grille": {
         "heroSection": {
-            "image": "/images/service25.avif",
+            "image": "/kpimages/2cff9c8c-e49a-4f36-87a2-47d79fc70387.jpg",
             "title": "Secure Grille Shutters",
             "description": [
                 "Strong and stylish grille shutters for enhanced security and ventilation.",
@@ -342,18 +342,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service26.avif",
-                    "alt": "Stylish grille shutter design"
+                    "image": "/kpimages/9a42f11b-0182-49cb-b26a-97f22054543c.jpg",
+                    "alt": "Aluminium grille louvre slats"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service27.jpg",
-                    "alt": "Retail grille shutter installation"
+                    "image": "/kpimages/8fd6fb7a-045c-4b78-a250-0a186ae93222.jpg",
+                    "alt": "Aluminium louvre panel"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service28.avif",
-                    "alt": "Durable grille shutters for storefronts"
+                    "image": "/kpimages/0d27a893-e8bd-44ca-9ab3-411b536e0119.jpg",
+                    "alt": "Grille shutter panel"
                 }
             ]
         },
@@ -362,7 +362,7 @@
     },
     "curtain-wall": {
         "heroSection": {
-            "image": "/images/service29.avif",
+            "image": "/kpimages/5f81dcf7-a49b-4feb-b0a9-d1fe5095d12d.jpg",
             "title": "Modern Curtain Wall Systems",
             "description": [
                 "Innovative curtain wall solutions designed for exceptional aesthetics and energy efficiency.",
@@ -386,18 +386,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service30.avif",
-                    "alt": "Modern curtain wall design"
+                    "image": "/kpimages/97dd5a59-5b6e-4404-a3fc-fa257b9e7a0d.jpg",
+                    "alt": "Large louvre curtain wall installation"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service31.avif",
-                    "alt": "Glass and aluminum curtain wall"
+                    "image": "/kpimages/07cd9cea-9e73-4dbd-804e-87ba49529d91.jpg",
+                    "alt": "Aluminium curtain wall system"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service32.avif",
-                    "alt": "Energy-efficient curtain wall system"
+                    "image": "/kpimages/119a8855-c478-489e-8c6d-cf1802cfbcf9.jpg",
+                    "alt": "Curtain wall louvre close-up"
                 }
             ]
         },
@@ -406,7 +406,7 @@
     },
     "windows-doors": {
         "heroSection": {
-            "image": "/images/service33.avif",
+            "image": "/kpimages/6c9443b4-f4d2-445a-8d6c-d87d5dadd2c7.jpg",
             "title": "Premium Windows and Doors",
             "description": [
                 "High-quality windows and doors designed for style, security, and energy efficiency.",
@@ -430,18 +430,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service34.avif",
-                    "alt": "Modern glass window design"
+                    "image": "/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg",
+                    "alt": "Automatic glass door installation"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service35.avif",
-                    "alt": "Stylish residential doors"
+                    "image": "/kpimages/29b2be66-e944-49ef-8f8b-057241f666c5.jpg",
+                    "alt": "Glass shopfront with doors"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service36.jpg",
-                    "alt": "Energy-efficient window and door system"
+                    "image": "/kpimages/bb2bda6e-1ee1-48e0-8df0-e23c567cd3b8.jpg",
+                    "alt": "Modern glass window and door system"
                 }
             ]
         },
@@ -450,7 +450,7 @@
     },
     "protection-screen": {
         "heroSection": {
-            "image": "/images/service37.avif",
+            "image": "/kpimages/8fd6fb7a-045c-4b78-a250-0a186ae93222.jpg",
             "title": "High-Performance Protection Screens",
             "description": [
                 "Advanced protection screens designed for safety and security in residential and commercial spaces.",
@@ -474,18 +474,18 @@
             "gallery": [
                 {
                     "id": 1,
-                    "image": "/images/service38.avif",
-                    "alt": "Durable protection screen installation"
+                    "image": "/kpimages/49f649b6-7068-4fc8-9d7c-e25d9aa18556.jpg",
+                    "alt": "Coloured aluminium protection screen frames"
                 },
                 {
                     "id": 2,
-                    "image": "/images/service39.avif",
-                    "alt": "Protection screen for windows"
+                    "image": "/kpimages/0d27a893-e8bd-44ca-9ab3-411b536e0119.jpg",
+                    "alt": "Aluminium louvre protection panel"
                 },
                 {
                     "id": 3,
-                    "image": "/images/service40.avif",
-                    "alt": "Advanced protection screen design"
+                    "image": "/kpimages/9a42f11b-0182-49cb-b26a-97f22054543c.jpg",
+                    "alt": "Protection screen louvre slats"
                 }
             ]
         },

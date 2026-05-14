@@ -7,7 +7,7 @@ const ContactForm = () => {
     return (
         <Layout>
             <Seo title={"Contact us"} descrption={"contact us"} />
-            <PageHeading title={"Contact us"} image={"https://londonshopfitters.co.uk/wp-content/uploads/2022/03/pexels-olga-lioncat-7245368-scaled.jpg"} />
+            <PageHeading title={"Contact us"} image={"/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg"} />
 
             <Container className="py-5">
                 <Row className="justify-content-between">
@@ -32,8 +32,8 @@ const ContactForm = () => {
                         <div className="mb-4">
                             <h5>Address:</h5>
                             <p className=" mb-0" style={{ color: "#F47920" }}>
-                                2D kent pier rd,<br />
-                                gravsend da119nb
+                                2D Kent Pier Rd,<br />
+                                Gravesend DA11 9NB
                             </p>
                         </div>
 

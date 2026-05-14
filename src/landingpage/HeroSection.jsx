@@ -45,7 +45,7 @@ const HeroSection = () => {
                 height: '100vh',
                 width: '100%',
                 overflow: 'hidden',
-                backgroundImage: 'url("https://img.freepik.com/premium-photo/modern-building_52137-38946.jpg?w=996")',
+                backgroundImage: 'url("/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg")',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat',
@@ -62,7 +62,7 @@ const HeroSection = () => {
                     left: 0,
                     right: 0,
                     bottom: 0,
-                    backgroundColor: 'rgba(0, 0, 0, 0.6)',
+                    backgroundColor: 'rgba(0, 0, 0, 0.35)',
                 }}
             />
 

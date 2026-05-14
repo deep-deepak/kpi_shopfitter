@@ -6,25 +6,25 @@ const AboutSection = () => {
         {
             id: 1,
             title: 'COMMERCIAL',
-            image: '/images/commercial.avif', // Replace with actual image path
+            image: '/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg',
             bgPosition: 'center',
         },
         {
             id: 2,
             title: 'EDUCATION',
-            image: '/images/educational.avif', // Replace with actual image path
+            image: '/kpimages/5f81dcf7-a49b-4feb-b0a9-d1fe5095d12d.jpg',
             bgPosition: 'center',
         },
         {
             id: 3,
             title: 'RETAIL',
-            image: "/images/retail.avif", // Replace with actual image path
+            image: '/kpimages/743a8b86-a44d-4f84-9ed0-611e55dc4f33.jpg',
             bgPosition: 'center',
         },
         {
             id: 4,
             title: 'RESIDENTIAL',
-            image: '/images/residence.avif', // Replace with actual image path
+            image: '/kpimages/6c9443b4-f4d2-445a-8d6c-d87d5dadd2c7.jpg',
             bgPosition: 'center',
         },
     ];
@@ -53,7 +53,7 @@ const AboutSection = () => {
                         At KPI Shopfitter, we specialize in high-quality aluminium windows, doors, curtain walling, shopfronts, and fire-rated solutions. With over a decade of experience, we continually innovate to provide cutting-edge designs that push boundaries and deliver exceptional results.
                     </p>
                     <p>
-                        As experts in commercial property enhancement, we handle everything from concept design to production and installation. Whether it’s schools, restaurants, banks, offices, or showrooms, we are committed to transforming your commercial space with precision and style, ensuring that every project meets and exceeds client expectations.
+                        As experts in commercial property enhancement, we handle everything from concept design to production and installation. Whether it's schools, restaurants, banks, offices, or showrooms, we are committed to transforming your commercial space with precision and style, ensuring that every project meets and exceeds client expectations.
                     </p>
                 </Col>
             </Row>

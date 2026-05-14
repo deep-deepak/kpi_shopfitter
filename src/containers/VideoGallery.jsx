@@ -2,12 +2,13 @@ import React, { useState } from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 
 const videos = [
-    "/new/5c494590-bbcb-4c08-bc1b-3bc14a9daff9.MP4",
-    "/new/89845daf-f93f-4fae-90aa-cb71952bf3bd.MP4",
+    "/kpimages/421176a2-8647-4adc-8d04-443b93ca5c75.MP4",
+    "/kpimages/71bb73b7-e3ba-4bad-8cb3-a6279a7b6835.MP4",
+    "/kpimages/c25349ec-a9b2-4713-b115-ec0f1758a13b.MP4",
 ];
 
 export default function VideoGallery() {
-    const [visibleCount, setVisibleCount] = useState(4); // Initial visible videos
+    const [visibleCount, setVisibleCount] = useState(4);
 
     const handleViewMore = () => {
         setVisibleCount((prevCount) => Math.min(prevCount + 4, videos.length));
@@ -16,7 +17,7 @@ export default function VideoGallery() {
     return (
         <div style={{
             padding: "30px",
-            backgroundColor: "#f4f7f6", // Soft light gray background to match
+            backgroundColor: "#f4f7f6",
         }}>
             <h2 className="updatedgalley_heading mt-5" data-aos="fade-in">
                 Our Videos
@@ -37,7 +38,7 @@ export default function VideoGallery() {
                 </Row>
                 {visibleCount < videos.length && (
                     <div className="text-center mt-3">
-                        <Button variant="primary" onClick={handleViewMore} style={{ background: "#0baf3f", border: "none" }}>
+                        <Button variant="primary" onClick={handleViewMore} style={{ background: "#F47920", border: "none" }}>
                             View More
                         </Button>
                     </div>

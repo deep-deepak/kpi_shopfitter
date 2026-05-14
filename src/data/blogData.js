@@ -4,7 +4,7 @@ export const blogPosts = [
         slug: "roller-shutters-near-me",
         title: "Roller Shutters Near Me – Best Solutions with KPI Shopfitter",
         content: `
-        <p>Roller shutters have become an essential addition to residential, commercial, and industrial properties. Whether you're looking for security, insulation, or aesthetic appeal, roller shutters offer a perfect solution. If you're searching for <a href="https://kpishopfitter.com/" target="_blank">roller shutters near me</a>, look no further than KPI Shopfitter.</p>
+        <p>Roller shutters have become an essential addition to residential, commercial, and industrial properties. Whether you're looking for security, insulation, or aesthetic appeal, roller shutters offer a perfect solution. If you're searching for <a href="https://kpishopfitter.co.uk/" target="_blank">roller shutters near me</a>, look no further than KPI Shopfitter.</p>
   
         <h2>Benefits of Installing Roller Shutters</h2>
         <h3>1. Enhanced Security</h3>
@@ -23,7 +23,7 @@ export const blogPosts = [
         <p>If you value your privacy, roller shutters allow you to control the amount of visibility into your property. You can roll them up for an open feel or keep them down for complete privacy.</p>
   
         <h2>Types of Roller Shutters Available at KPI Shopfitter</h2>
-        <img src="/blog/rollershutter1.avif" alt="Types of Roller Shutters" style="width:100%; height:450px; margin-bottom: 20px;" />
+        <img src="/kpimages/99aaa463-5a92-4603-819f-0ce65939bba2.jpg" alt="Types of Roller Shutters" style="width:100%; height:450px; margin-bottom: 20px; object-fit:cover;" />
         <ul>
           <li><strong>Manual Roller Shutters:</strong> Operated by hand and are an affordable solution for homes and small businesses.</li>
           <li><strong>Electric Roller Shutters:</strong> Easy to operate with a remote or switch, offering convenience and ease of use.</li>
@@ -36,7 +36,7 @@ export const blogPosts = [
         <ul>
           <li><strong>High-Quality Materials:</strong> We use premium materials to manufacture durable and long-lasting roller shutters.</li>
           <li><strong>Customization Options:</strong> We offer tailor-made solutions to suit your specific needs and preferences.</li>
-          <li><strong>Professional Installation:</strong> Our expert team ensures that your <a href="https://kpishopfitter.com/shutters-perforated/" target="_blank">shutters doors</a>  are installed correctly for maximum efficiency and longevity.</li>
+          <li><strong>Professional Installation:</strong> Our expert team ensures that your <a href="https://kpishopfitter.co.uk/shutters-perforated/" target="_blank">shutters doors</a>  are installed correctly for maximum efficiency and longevity.</li>
           <li><strong>Affordable Pricing:</strong> Competitive pricing without compromising on quality, making our shutters a cost-effective solution.</li>
           <li><strong>Excellent Customer Support:</strong> Our team is always ready to assist you, from choosing the right shutter to installation and maintenance.</li>
         </ul>
@@ -67,11 +67,11 @@ export const blogPosts = [
         </ul>
   
         <h2>Contact KPI Shopfitter Today!</h2>
-        <p>If you’re searching for <a href="https://kpishopfitter.com/shop-fronts-aluminium/" target="_blank">shop front shutters</a>, KPI Shopfitter is your trusted partner. With high-quality products, expert installation, and excellent customer service, we ensure your property gets the best protection and aesthetic appeal.</p>
+        <p>If you’re searching for <a href="https://kpishopfitter.co.uk/shop-fronts-aluminium/" target="_blank">shop front shutters</a>, KPI Shopfitter is your trusted partner. With high-quality products, expert installation, and excellent customer service, we ensure your property gets the best protection and aesthetic appeal.</p>
   
         <p><strong>Secure your property with the best roller shutters – contact KPI Shopfitter now!</strong></p>
       `,
-        image: "/blog/rollershuutter.avif",
+        image: "/kpimages/878bf69e-c100-480f-a46f-45f69d75cc76.jpg",
         metaTitle: "Roller Shutters Near Me – Best Solutions | KPI Shopfitters",
         metaDesecription: "Find durable and secure roller shutters near you with KPI Shopfitters. Get high-quality solutions for homes and businesses. Contact us for a free quote!"
     },
@@ -80,7 +80,7 @@ export const blogPosts = [
       "slug": "shop-front-shutters-near-me",
       "title": "Shop Front Shutters Near Me – Secure & Stylish Solutions by KPI Shopfitter",
       "content": `
-      <p>If you are searching for <a href="https://kpishopfitter.com/" target="_blank">shop front shutters near me</a>, look no further! At KPI Shopfitter, we specialize in designing, installing, and maintaining premium-quality shutters that combine security and aesthetics. Whether you own a retail store, a café, or a commercial property, investing in high-quality shop front shutters is a smart decision.</p>
+      <p>If you are searching for <a href="https://kpishopfitter.co.uk/" target="_blank">shop front shutters near me</a>, look no further! At KPI Shopfitter, we specialize in designing, installing, and maintaining premium-quality shutters that combine security and aesthetics. Whether you own a retail store, a café, or a commercial property, investing in high-quality shop front shutters is a smart decision.</p>
     
       <h2>Types of Shop Front Shutters</h2>
       <ul>
@@ -104,7 +104,7 @@ export const blogPosts = [
       <p>Modern shutters come in a variety of designs and colors, allowing you to choose a style that complements your brand image.</p>
     
       <h2>How to Choose the Best Shop Front Shutters Near You</h2>
-       <img src="/blog/shopfront2.jpg" alt="Types of Roller Shutters" style="width:100%; height:450px; margin-bottom: 20px;" />
+       <img src="/kpimages/2cff9c8c-e49a-4f36-87a2-47d79fc70387.jpg" alt="Shop Front Shutters" style="width:100%; height:450px; margin-bottom: 20px; object-fit:cover;" />
       <ol>
         <li><strong>Consider Your Security Needs:</strong> Assess the level of security required for your store. High-risk areas may require reinforced or solid shutters, while low-risk locations can opt for perforated or transparent options.</li>
         <li><strong>Material Quality:</strong> Ensure that the shutters are made from high-quality materials such as aluminum or steel for enhanced durability.</li>
@@ -117,8 +117,8 @@ export const blogPosts = [
     
       <h2>Additional Services We Offer</h2>
       <ul>
-        <li><strong>Store Front Glass Installation:</strong> Looking to upgrade your shop’s entrance? We also specialize in <a href="https://kpishopfitter.com/shop-fronts-glass/" taget="_blank">Store Front Glass</a> installations. High-quality glass enhances the aesthetic appeal of your business while maintaining visibility.</li>
-        <li><strong>Replace Front Door Services:</strong> If your shop’s entrance door is damaged or outdated, we provide reliable <a href="https://kpishopfitter.com/shop-fronts-automatic-doors/" target="_blank">replace front door</a> services. A new door can improve security and give your storefront a fresh, modern look.</li>
+        <li><strong>Store Front Glass Installation:</strong> Looking to upgrade your shop’s entrance? We also specialize in <a href="https://kpishopfitter.co.uk/shop-fronts-glass/" taget="_blank">Store Front Glass</a> installations. High-quality glass enhances the aesthetic appeal of your business while maintaining visibility.</li>
+        <li><strong>Replace Front Door Services:</strong> If your shop’s entrance door is damaged or outdated, we provide reliable <a href="https://kpishopfitter.co.uk/shop-fronts-automatic-doors/" target="_blank">replace front door</a> services. A new door can improve security and give your storefront a fresh, modern look.</li>
       </ul>
     
       <h2>Why Choose KPI Shopfitter?</h2>
@@ -136,7 +136,7 @@ export const blogPosts = [
     
       <p><strong>Contact us today to discuss your shop front shutter needs and get a free quote. Secure your business with the best shutters in the industry!</strong></p>
       `,
-      "image": "/blog/shopfront1.jpg",
+      "image": "/kpimages/743a8b86-a44d-4f84-9ed0-611e55dc4f33.jpg",
       "metaTitle": "Shop Front Shutters Near Me | Secure & Stylish Solution",
       "metaDescription": " Find shop front shutters near me at KPI Shopfitter. Secure, stylish, and durable solutions. Contact us today for expert installation!"
     },
@@ -145,7 +145,7 @@ export const blogPosts = [
       "slug": "rolling-shutter-repair-services",
       "title": "Expert Rolling Shutter Repair & Services | KPI Shopfitter",
       "content":
-        `<p>At KPI Shopfitter, we specialize in high-quality <a href='https://kpishopfitter.com/shutters-punched/' target='_blank'>rolling shutter repair and services</a> to ensure your business remains secure and fully operational. Whether you have manual or automatic rolling shutters, our experienced team provides fast, efficient, and affordable repair solutions tailored to your needs.</p>
+        `<p>At KPI Shopfitter, we specialize in high-quality <a href='https://kpishopfitter.co.uk/shutters-punched/' target='_blank'>rolling shutter repair and services</a> to ensure your business remains secure and fully operational. Whether you have manual or automatic rolling shutters, our experienced team provides fast, efficient, and affordable repair solutions tailored to your needs.</p>
         
         <h2>Comprehensive Rolling Shutter Repair Solutions</h2>
         <p>Rolling shutters play a crucial role in safeguarding your commercial and industrial spaces. Over time, they may face wear and tear, electrical malfunctions, or misalignment issues, requiring immediate attention. Our professional technicians have years of expertise in diagnosing and fixing all types of rolling shutter problems, including:</p>
@@ -194,12 +194,12 @@ export const blogPosts = [
         </ul>
         
         <h2>Get in Touch for Professional Rolling Shutter Repairs</h2>
-        <p><a href='https://kpishopfitter.com/' target='_blank'>At KPI Shopfitter</a>, we are committed to delivering efficient, reliable, and cost-effective rolling shutter solutions. Whether you need a quick fix or a full replacement, our experts are here to help.</p>
+        <p><a href='https://kpishopfitter.co.uk/' target='_blank'>At KPI Shopfitter</a>, we are committed to delivering efficient, reliable, and cost-effective rolling shutter solutions. Whether you need a quick fix or a full replacement, our experts are here to help.</p>
         
         <p><strong>📞 Call us now for a free consultation and quote!</strong></p>
-        <p><strong>🌍 <a href='https://kpishopfitter.com/contact' target='_blank'>Visit our website</a> to learn more about our services.</strong></p>`,
+        <p><strong>🌍 <a href='https://kpishopfitter.co.uk/contact' target='_blank'>Visit our website</a> to learn more about our services.</strong></p>`,
   
-      "image": "/blog/rollershute.avif",
+      "image": "/kpimages/bbc3efd8-939b-44ed-9486-70dc5a8864f3.jpg",
       "metaTitle": "Rolling Shutter Repair & Services - KPI Shopfitter",
       "metaDescription": "Need fast and reliable rolling shutter repair services? KPI Shopfitter offers 24/7 emergency repairs for commercial and industrial shutters. Visit now."
     },
@@ -208,7 +208,7 @@ export const blogPosts = [
       "slug": "automatic-shop-front-doors",
       "title": "Automatic Shop Front Doors: Enhancing Accessibility and Security | KPI Shopfitter",
       "content":
-        `<p>At KPI Shopfitter, we specialize in providing <a href='https://kpishopfitter.com/shop-fronts-automatic-doors/' target='_blank'>high-quality automatic door solutions</a> tailored to the unique needs of commercial spaces. Our expert team ensures your business entrance combines functionality, security, and aesthetic appeal to create the perfect first impression.</p>
+        `<p>At KPI Shopfitter, we specialize in providing <a href='https://kpishopfitter.co.uk/shop-fronts-automatic-doors/' target='_blank'>high-quality automatic door solutions</a> tailored to the unique needs of commercial spaces. Our expert team ensures your business entrance combines functionality, security, and aesthetic appeal to create the perfect first impression.</p>
         
         <h2>Why Choose Automatic Shop Front Doors?</h2>
         <p>Automatic shop front doors offer numerous benefits that make them an ideal choice for retail outlets, shopping malls, office buildings, and hospitality establishments. Here are some key reasons why businesses opt for these doors:</p>
@@ -222,7 +222,7 @@ export const blogPosts = [
         </ul>
         
         <h2>Types of Automatic Shop Front Doors</h2>
-        <p><a href='https://kpishopfitter.com/shop-fronts-automatic-doors/' target='_blank' >At KPI Shopfitter</a>, we offer a variety of automatic door solutions to suit different business needs:</p>
+        <p><a href='https://kpishopfitter.co.uk/shop-fronts-automatic-doors/' target='_blank' >At KPI Shopfitter</a>, we offer a variety of automatic door solutions to suit different business needs:</p>
         
         <ul>
           <li>✅ <strong>Sliding Automatic Doors:</strong> Ideal for spaces with limited entrance width, sliding doors operate smoothly with motion sensors and provide an elegant entrance solution.</li>
@@ -265,7 +265,7 @@ export const blogPosts = [
         </ul>
         
         <h2>Why Choose KPI Shopfitter?</h2>
-        <p>With years of expertise in <a href="https://kpishopfitter.com/shop-fronts-aluminium/" target="_blank"> shop front solutions</a>, KPI Shopfitter is a trusted provider of automatic door systems in the UK. Here's why businesses rely on us:</p>
+        <p>With years of expertise in <a href="https://kpishopfitter.co.uk/shop-fronts-aluminium/" target="_blank"> shop front solutions</a>, KPI Shopfitter is a trusted provider of automatic door systems in the UK. Here's why businesses rely on us:</p>
         
         <ul>
           <li>✅ <strong>Quality Craftsmanship:</strong> Using only durable materials for long-lasting results.</li>
@@ -276,12 +276,12 @@ export const blogPosts = [
         </ul>
         
         <h2>Get a Free Consultation Today!</h2>
-        <p><a href='https://kpishopfitter.com/' target='_blank'>At KPI Shopfitter</a>, we are committed to delivering efficient, reliable, and stylish automatic door solutions. Whether you need a new installation or maintenance for existing doors, our experts are here to help.</p>
+        <p><a href='https://kpishopfitter.co.uk/' target='_blank'>At KPI Shopfitter</a>, we are committed to delivering efficient, reliable, and stylish automatic door solutions. Whether you need a new installation or maintenance for existing doors, our experts are here to help.</p>
         
         <p><strong>📞 Call us now for a free consultation and quote!</strong></p>
-        <p><strong>🌍 <a href='https://kpishopfitter.com/contact' target='_blank'>Visit our website</a> to learn more about our services.</strong></p>`,
+        <p><strong>🌍 <a href='https://kpishopfitter.co.uk/contact' target='_blank'>Visit our website</a> to learn more about our services.</strong></p>`,
   
-      "image": "/blog/automaticshopdoors.jpg",
+      "image": "/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg",
       "metaTitle": "Automatic Shop Front Doors - KPI Shopfitter",
       "metaDescription": "Enhance your business entrance with high-quality automatic shop front doors. KPI Shopfitter provides expert installation and maintenance services. Learn more."
     },
@@ -291,7 +291,7 @@ export const blogPosts = [
   "slug": "shop-fronts-london",
   "title": "Shop Fronts London – Transform Your Business Appearance | KPI Shopfitter",
   "content":
-    `<p>Your shop front is the first impression your business creates. In a busy city like London, where competition is high, having an attractive, modern, and secure shop front is essential. At KPI Shopfitter, we provide <a href='https://kpishopfitter.com/' target='_blank'>premium-quality shop fronts</a> London businesses can trust.</p>
+    `<p>Your shop front is the first impression your business creates. In a busy city like London, where competition is high, having an attractive, modern, and secure shop front is essential. At KPI Shopfitter, we provide <a href='https://kpishopfitter.co.uk/' target='_blank'>premium-quality shop fronts</a> London businesses can trust.</p>
     
     <p>We specialise in designing and installing bespoke shop fronts in London that not only enhance your business appearance but also provide maximum security.</p>
     
@@ -336,7 +336,7 @@ export const blogPosts = [
     <p>KPI Shopfitter specialises in designing stunning glass shop fronts London businesses can rely on for aesthetic appeal.</p>
     
     <h3>3. Timber Shop Fronts London</h3>
-    <p>For businesses looking for a traditional or classic appearance, <a href="https://kpishopfitter.com/shop-fronts-timber" target="_blank"> timber shop fronts </a>are ideal. They add warmth and character to your store.</p>
+    <p>For businesses looking for a traditional or classic appearance, <a href="https://kpishopfitter.co.uk/shop-fronts-timber" target="_blank"> timber shop fronts </a>are ideal. They add warmth and character to your store.</p>
     
     <p><strong>Timber shop fronts London clients choose for:</strong></p>
     <ul>
@@ -375,7 +375,7 @@ export const blogPosts = [
     <p>We understand the importance of creating a unique and secure entrance for your business. Whether you need aluminium shop fronts, glass shop fronts, or roller shutters, we have the expertise to handle it all.</p>
     
     <h2>Get In Touch for Bespoke Shop Fronts in London</h2>
-    <p>Are you ready to transform your store's appearance? <a href='https://kpishopfitter.com/' target='_blank'>Contact KPI Shopfitter</a> today for the best shop fronts London businesses trust.</p>
+    <p>Are you ready to transform your store's appearance? <a href='https://kpishopfitter.co.uk/' target='_blank'>Contact KPI Shopfitter</a> today for the best shop fronts London businesses trust.</p>
     
     <p><strong>We offer:</strong></p>
     <ul>
@@ -391,9 +391,9 @@ export const blogPosts = [
     <p>Let us help you create a lasting impression in the busy streets of London.</p>
     
     <p><strong>📞 Call us now for a free consultation and quote!</strong></p>
-    <p><strong>🌍 <a href='https://kpishopfitter.com/contact' target='_blank'>Visit our website</a> to learn more about our services.</strong></p>`,
+    <p><strong>🌍 <a href='https://kpishopfitter.co.uk/contact' target='_blank'>Visit our website</a> to learn more about our services.</strong></p>`,
 
-  "image": "/blog/shopfront11.avif",
+  "image": "/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg",
   "metaTitle": "Shop Fronts London - Premium Solutions by KPI Shopfitter",
   "metaDescription": "Transform your business with high-quality shop fronts in London. KPI Shopfitter offers aluminium, glass, and timber shop fronts with expert installation."
 },
@@ -403,7 +403,7 @@ export const blogPosts = [
   "slug": "automatic-shop-front-doors-modern-businesses",
   "title": "Automatic Shop Front Doors for Modern Businesses | KPI Shopfitter",
   "content":
-    `<p>In today's competitive marketplace, the entrance to your commercial space speaks volumes about your brand. <a href='https://kpishopfitter.com/shop-fronts-automatic-doors/' target='_blank'>Automatic shop front doors</a> offer a sleek, secure, and convenient solution that not only enhances visual appeal but also improves customer experience. At KPI Shopfitter, we provide top-quality installations that meet the highest standards of functionality and style.</p>
+    `<p>In today's competitive marketplace, the entrance to your commercial space speaks volumes about your brand. <a href='https://kpishopfitter.co.uk/shop-fronts-automatic-doors/' target='_blank'>Automatic shop front doors</a> offer a sleek, secure, and convenient solution that not only enhances visual appeal but also improves customer experience. At KPI Shopfitter, we provide top-quality installations that meet the highest standards of functionality and style.</p>
     
     <h2>What Makes Automatic Doors a Smart Choice?</h2>
     <p>Modern businesses prioritize ease of access, safety, and presentation. Automatic shop front doors deliver all three in a single package.</p>
@@ -431,7 +431,7 @@ export const blogPosts = [
     </ul>
     
     <h2>The Process: From Consultation to Installation</h2>
-    <p>When you choose <a href="https://kpishopfitter.com/" target="_blank"> KPI Shopfitter</a>, you're working with a team that prioritizes quality and precision at every step:</p>
+    <p>When you choose <a href="https://kpishopfitter.co.uk/" target="_blank"> KPI Shopfitter</a>, you're working with a team that prioritizes quality and precision at every step:</p>
     
     <ul>
       <li>🔹 <strong>Site Visit & Assessment:</strong> We evaluate your entry space and listen to your needs.</li>
@@ -473,11 +473,11 @@ export const blogPosts = [
     <h2>Book Your Consultation</h2>
     <p>If you're looking to upgrade your entrance with<a href="https://posts.gle/Vcn1nH" target="_blank"> automatic shop front doors</a>, we're here to help. Our experienced team offers tailored solutions that align with your space, industry, and budget. From design to installation, we handle everything — so your business can focus on delivering an exceptional customer experience.</p>
     
-    <p><strong>📞 Call today to schedule a free consultation and get a personalized quote from <a href='https://kpishopfitter.com/' target='_blank'>KPI Shopfitter</a>.</strong></p>
+    <p><strong>📞 Call today to schedule a free consultation and get a personalized quote from <a href='https://kpishopfitter.co.uk/' target='_blank'>KPI Shopfitter</a>.</strong></p>
     
-    <p><strong>🌍 <a href='https://kpishopfitter.com/contact' target='_blank'>Visit our website</a> to learn more about our automatic door solutions.</strong></p>`,
+    <p><strong>🌍 <a href='https://kpishopfitter.co.uk/contact' target='_blank'>Visit our website</a> to learn more about our automatic door solutions.</strong></p>`,
 
-  "image": "/blog/auto.jpg",
+  "image": "/kpimages/6c9443b4-f4d2-445a-8d6c-d87d5dadd2c7.jpg",
   "metaTitle": "Automatic Shop Front Doors for Modern Businesses | KPI Shopfitter",
   "metaDescription": "Enhance your business entrance with high-quality automatic shop front doors. KPI Shopfitter offers expert installation for retail, hospitality & corporate sectors."
 },
@@ -486,7 +486,7 @@ export const blogPosts = [
   "slug": "curtain-wall-installation-commercial-spaces",
   "title": "Transforming Commercial Spaces with Curtain Wall Installation | KPI Shopfitter",
   "content":
-    `<p>In today's competitive commercial world, the appearance and functionality of a building's exterior play a crucial role in how a brand is perceived. One of the most effective ways to modernize and enhance the façade of a building is by investing in <a href='https://kpishopfitter.com/curtain-wall/' target='_blank'>curtain wall installation</a>. At KPI Shopfitter, we specialize in delivering high-quality curtain wall systems that not only look impressive but also offer unmatched performance and durability.</p>
+    `<p>In today's competitive commercial world, the appearance and functionality of a building's exterior play a crucial role in how a brand is perceived. One of the most effective ways to modernize and enhance the façade of a building is by investing in <a href='https://kpishopfitter.co.uk/curtain-wall/' target='_blank'>curtain wall installation</a>. At KPI Shopfitter, we specialize in delivering high-quality curtain wall systems that not only look impressive but also offer unmatched performance and durability.</p>
     
     <h2>What is a Curtain Wall System?</h2>
     <p>A curtain wall is a non-structural cladding system that is typically made of lightweight materials such as aluminum frames and glass panels. It is attached to the exterior of a building but does not carry any structural load from the roof or floor. Instead, its primary role is to protect the interior from environmental elements while allowing abundant natural light to flow inside.</p>
@@ -535,12 +535,12 @@ export const blogPosts = [
     </ul>
     
     <h2>Contact Us for a Free Quote</h2>
-    <p>Thinking about upgrading your building with a modern curtain wall system? <a href='https://kpishopfitter.com/' target='_blank'>Let KPI Shopfitter</a> bring your vision to life. Reach out today to schedule a site visit or get a free quote. Whether it's a new construction project or a refurbishment, we're ready to help you take your property to the next level.</p>
+    <p>Thinking about upgrading your building with a modern curtain wall system? <a href='https://kpishopfitter.co.uk/' target='_blank'>Let KPI Shopfitter</a> bring your vision to life. Reach out today to schedule a site visit or get a free quote. Whether it's a new construction project or a refurbishment, we're ready to help you take your property to the next level.</p>
     
     <p><strong>📞 Call us now for expert advice and a personalized curtain wall solution!</strong></p>
-    <p><strong>🌍 <a href='https://kpishopfitter.com/contact' target='_blank'>Visit our website</a> to see our portfolio of successful curtain wall installations.</strong></p>`,
+    <p><strong>🌍 <a href='https://kpishopfitter.co.uk/contact' target='_blank'>Visit our website</a> to see our portfolio of successful curtain wall installations.</strong></p>`,
 
-  "image": "/blog/curtain.jpg",
+  "image": "/kpimages/5f81dcf7-a49b-4feb-b0a9-d1fe5095d12d.jpg",
   "metaTitle": "Curtain Wall Installation for Commercial Spaces | KPI Shopfitter",
   "metaDescription": "Transform your commercial building with professional curtain wall installation. KPI Shopfitter delivers custom solutions for modern, energy-efficient façades."
 },

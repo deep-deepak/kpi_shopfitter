@@ -8,7 +8,7 @@ export default function About() {
     return (
         <div>
             <Seo title={"About us"} descrption={"About us page"} />
-            <PageHeading title={"About us"} image={"/images/gallery1.jpg"} />
+            <PageHeading title={"About us"} image={"/kpimages/29b2be66-e944-49ef-8f8b-057241f666c5.jpg"} />
 
             <Container fluid className="py-5">
                 <Row className="justify-content-center align-items-center mx-4 mx-md-5 gy-4">
@@ -24,7 +24,7 @@ export default function About() {
                             }}
                         >
                             <img
-                                src="/images/commerce.avif"
+                                src="/kpimages/ab79aa3f-71c4-40fc-bbd6-5ffab0e32649.jpg"
                                 alt="Modern Commercial Building"
                                 className="img-fluid w-100"
                                 style={{

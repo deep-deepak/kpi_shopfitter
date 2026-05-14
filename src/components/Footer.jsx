@@ -29,7 +29,7 @@ const Footer = () => {
                                     }}
                                 />
                             </div>
-                            <p className="mb-4" style={{ marginTop: "10px" }}>We are dedicated to providing the best services to our customers with quality and innovation at the forefront of everything we do.</p>
+                            <p className="mb-4" style={{ marginTop: "10px" }}>KPI Shopfitter specialises in aluminium shopfronts, curtain walling, roller shutters, automatic doors, and fire-rated solutions — delivering quality design, fabrication, and installation for commercial properties.</p>
                         </div>
                         <div className="d-flex gap-3 social_icon">
                                             <Link href="https://x.com/KPIShopfitter" target='_blank' className="text-light hover:text-primary transition-colors">
@@ -71,8 +71,8 @@ const Footer = () => {
                         <h5 className="mb-4" style={{ color: "#F47920" }}>Contact Info</h5>
                         <ul className="list-unstyled">
                             <li className="mb-3">
-                                <p className="mb-0">2D kent pier rd,</p>
-                                <p className="mb-0">gravsend da119nb</p>
+                                <p className="mb-0">2D Kent Pier Rd,</p>
+                                <p className="mb-0">Gravesend DA11 9NB</p>
                                 {/* <p className="mb-0">Postal Code</p> */}
                             </li>
                             <li className="mb-3">
