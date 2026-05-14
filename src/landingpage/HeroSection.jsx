@@ -71,14 +71,26 @@ const HeroSection = () => {
                 className="h-100 d-flex flex-column justify-content-center align-items-center text-white text-center position-relative"
             >
                 <h1
-                    className="display-1 fw-bold mb-4"
+                    className="display-1 fw-bold mb-2"
                     style={{
-                        fontSize: 'clamp(2.5rem, 8vw, 5rem)',
-                        letterSpacing: '2px'
+                        fontSize: 'clamp(2rem, 6vw, 4rem)',
+                        letterSpacing: '2px',
+                        lineHeight: 1.15,
                     }}
                 >
                     KPI SHOPFITTER
                 </h1>
+                <p
+                    className="fw-semibold mb-4 text-white"
+                    style={{
+                        fontSize: 'clamp(1rem, 2.5vw, 1.5rem)',
+                        letterSpacing: '3px',
+                        textTransform: 'uppercase',
+                        opacity: 0.9,
+                    }}
+                >
+                    Shopfronts &nbsp;|&nbsp; Shutters &nbsp;|&nbsp; Signage
+                </p>
                 <div
                     className="fs-4 position-relative"
                     style={{
