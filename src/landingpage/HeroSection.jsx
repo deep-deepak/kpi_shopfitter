@@ -77,7 +77,7 @@ const HeroSection = () => {
                         letterSpacing: '2px'
                     }}
                 >
-                    KPI SHOPFITTER
+                    KPI SHOPFITTER test
                 </h1>
                 <div
                     className="fs-4 position-relative"
