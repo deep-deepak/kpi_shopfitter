@@ -71,8 +71,8 @@ const Footer = () => {
                         <h5 className="mb-4" style={{ color: "#F47920" }}>Contact Info</h5>
                         <ul className="list-unstyled">
                             <li className="mb-3">
-                                <p className="mb-0">2D Kent Pier Rd,</p>
-                                <p className="mb-0">Gravesend DA11 9NB</p>
+                                <p className="mb-0">141 Richmond Road,</p>
+                                <p className="mb-0">Ilford, London IG1 1JT</p>
                                 {/* <p className="mb-0">Postal Code</p> */}
                             </li>
                             <li className="mb-3">

@@ -32,8 +32,8 @@ const ContactForm = () => {
                         <div className="mb-4">
                             <h5>Address:</h5>
                             <p className=" mb-0" style={{ color: "#F47920" }}>
-                                2D Kent Pier Rd,<br />
-                                Gravesend DA11 9NB
+                                141 Richmond Road,<br />
+                                Ilford, London IG1 1JT
                             </p>
                         </div>
 
@@ -99,7 +99,7 @@ const ContactForm = () => {
             </Container>
             <Row>
                 <Col md={12} style={{ borderTop: "5px solid #F47920" }}>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9947.143964532357!2d0.3372023612334156!3d51.44372402595956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8b613ac89dd8f%3A0x33eab612ee28b828!2s2D%20Kent%20Pier%20Rd%2C%20Northfleet%2C%20Gravesend%20DA11%209NB%2C%20UK!5e0!3m2!1sen!2sin!4v1742056929398!5m2!1sen!2sin" width="100%" height="450" style={{border:"0"}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://maps.google.com/maps?q=141+Richmond+Road,+Ilford,+London+IG1+1JT,+England&output=embed" width="100%" height="450" style={{border:"0"}} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                 </Col>
             </Row>
         </Layout>

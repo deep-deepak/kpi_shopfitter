@@ -10,7 +10,7 @@ const faqs = [
     {
         id: 2,
         question: "Which areas do you cover?",
-        answer: "We are based in Gravesend, Kent and provide installation and support services across London, Kent, Essex, and surrounding areas throughout the UK. Contact us to confirm coverage for your specific location."
+        answer: "We are based in Ilford, London and provide installation and support services across London, Essex, Kent, and surrounding areas throughout the UK. Contact us to confirm coverage for your specific location."
     },
     {
         id: 3,
