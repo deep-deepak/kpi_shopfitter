@@ -20,13 +20,13 @@ const ContactForm = () => {
                         <br />
                         <div className="mb-4">
                             <h5>Phone:</h5>
-                            <p className=" mb-0" style={{ color: "#F47920" }}>+44 7407057984</p>
+                            <p className=" mb-0" style={{ color: "#F47920" }}>+44 7735 559454</p>
                         </div>
                         <div className="mb-4">
                             <h5>E-mail:</h5>
-                            <a href="mailto:kpishopfitter@gmail.com"
+                            <a href="mailto:kpishuttersuk@gmail.com"
                                 className=" text-decoration-none" style={{ color: "#F47920" }}>
-                                kpishopfitter@gmail.com
+                                kpishuttersuk@gmail.com
                             </a>
                         </div>
                         <div className="mb-4">

@@ -76,7 +76,7 @@ export default function App({ Component, pageProps }) {
               logo: "",
               contactPoint: {
                 "@type": "ContactPoint",
-                telephone: "+44 7407057984",
+                telephone: "+44 7735 559454",
                 contactType: "customer service",
                 contactOption: "TollFree",
                 areaServed: "GB",

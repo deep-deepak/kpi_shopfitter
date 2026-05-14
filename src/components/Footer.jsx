@@ -76,10 +76,10 @@ const Footer = () => {
                                 {/* <p className="mb-0">Postal Code</p> */}
                             </li>
                             <li className="mb-3">
-                                <p className="mb-0">Phone: +44 7407057984</p>
+                                <p className="mb-0">Phone: +44 7735 559454</p>
                             </li>
                             <li className="mb-3">
-                                <p className="mb-0">Email: kpishopfitter@gmail.com</p>
+                                <p className="mb-0">Email: kpishuttersuk@gmail.com</p>
                             </li>
                             <li className="mb-3">
                                 <p className="mb-0">Open: 24/7</p>

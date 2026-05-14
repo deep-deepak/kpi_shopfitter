@@ -12,7 +12,7 @@ const WhatsAppModal = () => {
     const handleClose = () => setShow(false);
 
     const openWhatsApp = () => {
-        window.open("https://wa.me/447407057984", "_blank");
+        window.open("https://wa.me/447735559454", "_blank");
         handleClose();
     };
 
