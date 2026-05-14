@@ -4,7 +4,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect, useState } from "react";
 import Head from "next/head";
-import WhatsAppModal from "@/common/WhatsAppModal";
+// import WhatsAppModal from "@/common/WhatsAppModal";
 
 export default function App({ Component, pageProps }) {
   const [showScrollButton, setShowScrollButton] = useState(false);
@@ -87,7 +87,7 @@ export default function App({ Component, pageProps }) {
         />
       </Head>
 
-      <WhatsAppModal />
+      {/* <WhatsAppModal /> */}
 
       {/* ✅ Scroll-to-Top Button */}
       {showScrollButton && (
