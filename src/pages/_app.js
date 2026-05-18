@@ -9,7 +9,6 @@ import Head from "next/head";
 export default function App({ Component, pageProps }) {
   const [showScrollButton, setShowScrollButton] = useState(false);
 
-  // ✅ Initialize AOS animations + scroll-to-top visibility
   useEffect(() => {
     AOS.init({ duration: 1000, once: true, easing: "ease" });
 
@@ -26,14 +25,14 @@ export default function App({ Component, pageProps }) {
         <meta name="robots" content="index,follow" />
         <meta
           name="google-site-verification"
-          content="pDXrhOKbmr95EG4Rbtns71Q0xQx0SdWCKwhuMjICydw"
+          content="EnC132zMTZQkb0E_92avvUd2ABYrUU8Ms0oMT9P3w30"
         />
-        <link rel="canonical" href="https://KPI Shopfitter.com/" />
+        <link rel="canonical" href="https://kpishopfitter.co.uk/" />
 
-        {/* ✅ Google Analytics (G-058SP393MP) */}
+        {/* Google Analytics (G-RWEMEC3YB4) */}
         <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-058SP393MP"
+          src="https://www.googletagmanager.com/gtag/js?id=G-RWEMEC3YB4"
         ></script>
         <script
           dangerouslySetInnerHTML={{
@@ -41,12 +40,12 @@ export default function App({ Component, pageProps }) {
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-058SP393MP');
+              gtag('config', 'G-RWEMEC3YB4');
             `,
           }}
         />
 
-        {/* ✅ Google Ads (AW-17426309870) */}
+        {/* Google Ads (AW-17426309870) */}
         <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=AW-17426309870"
@@ -63,7 +62,7 @@ export default function App({ Component, pageProps }) {
           }}
         />
 
-        {/* ✅ JSON-LD Schema */}
+        {/* Organization Schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -71,17 +70,114 @@ export default function App({ Component, pageProps }) {
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "KPI Shopfitter",
-              alternateName: "KPI Shopfitter",
-              url: "https://KPI Shopfitter.com/",
-              logo: "",
+              url: "https://kpishopfitter.co.uk/",
+              logo: "https://kpishopfitter.co.uk/logokpi.png",
+              image: "https://kpishopfitter.co.uk/cover.jpg",
+              description: "KPI Shopfitter specialises in aluminium shopfronts, roller shutters, curtain walling, automatic doors and signage across London and the UK.",
+              address: {
+                "@type": "PostalAddress",
+                streetAddress: "141 Richmond Road",
+                addressLocality: "Ilford",
+                addressRegion: "London",
+                postalCode: "IG1 1JT",
+                addressCountry: "GB",
+              },
               contactPoint: {
                 "@type": "ContactPoint",
-                telephone: "+44 7735 559454",
+                telephone: "+44-7735-559454",
                 contactType: "customer service",
-                contactOption: "TollFree",
                 areaServed: "GB",
                 availableLanguage: "en",
               },
+              email: "kpishuttersuk@gmail.com",
+              sameAs: [
+                "https://x.com/KPIShopfitter",
+                "https://www.instagram.com/kpishopfitter/",
+                "https://www.youtube.com/channel/UCZsZxPrvAhV7TnzNZD601zA",
+              ],
+            }),
+          }}
+        />
+
+        {/* LocalBusiness Schema */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "LocalBusiness",
+              name: "KPI Shopfitter",
+              image: "https://kpishopfitter.co.uk/cover.jpg",
+              url: "https://kpishopfitter.co.uk/",
+              telephone: "+44-7735-559454",
+              email: "kpishuttersuk@gmail.com",
+              address: {
+                "@type": "PostalAddress",
+                streetAddress: "141 Richmond Road",
+                addressLocality: "Ilford",
+                addressRegion: "London",
+                postalCode: "IG1 1JT",
+                addressCountry: "GB",
+              },
+              geo: {
+                "@type": "GeoCoordinates",
+                latitude: 51.5588,
+                longitude: 0.0724,
+              },
+              openingHoursSpecification: [
+                {
+                  "@type": "OpeningHoursSpecification",
+                  dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                  opens: "09:00",
+                  closes: "18:00",
+                },
+              ],
+              priceRange: "££",
+            }),
+          }}
+        />
+
+        {/* FAQPage Schema */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: [
+                {
+                  "@type": "Question",
+                  name: "What services does KPI Shopfitter provide?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "KPI Shopfitter specialises in the design, fabrication, and installation of aluminium shopfronts, glass shopfronts, automatic doors, roller shutters, curtain wall systems, windows & doors, and protection screens.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "Which areas do you cover?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "We are based in Ilford, London and provide installation and support services across London, Essex, Kent, and surrounding areas throughout the UK.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "Do you offer free quotes?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Yes — we offer free, no-obligation consultations and quotes for all projects. Call us on +44 7735 559454 or email kpishuttersuk@gmail.com.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "Do you provide a warranty on your work?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Yes — all KPI Shopfitter installations come with a warranty covering materials and workmanship. Full details are provided in your project agreement.",
+                  },
+                },
+              ],
             }),
           }}
         />
@@ -89,7 +185,7 @@ export default function App({ Component, pageProps }) {
 
       {/* <WhatsAppModal /> */}
 
-      {/* ✅ Scroll-to-Top Button */}
+      {/* Scroll-to-Top Button */}
       {showScrollButton && (
         <button
           onClick={scrollToTop}
