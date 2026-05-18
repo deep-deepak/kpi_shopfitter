@@ -21,8 +21,8 @@ export default function Service({ data, serviceName }) {
     return (
         <div>
             <Seo
-                title={data.title}
-                description={data.description}
+                title={`${data.heroSection.title} | KPI Shopfitter London`}
+                descrption={`${data.heroSection.description[0]} KPI Shopfitter — London's trusted commercial shopfitting specialists.`}
             />
             <PageHeading
                 title={data.heroSection.title}

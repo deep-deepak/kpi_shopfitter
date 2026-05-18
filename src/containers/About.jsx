@@ -7,7 +7,7 @@ export default function About() {
     const [activeTab, setActiveTab] = useState('mission');
     return (
         <div>
-            <Seo title={"About us"} descrption={"About us page"} />
+            <Seo title={"About KPI Shopfitter | Shopfronts & Shutters London"} descrption={"Learn about KPI Shopfitter — London's trusted specialists in aluminium shopfronts, roller shutters, curtain walling, and automatic doors across Ilford, Essex and the UK."} />
             <PageHeading title={"About us"} image={"/kpimages/29b2be66-e944-49ef-8f8b-057241f666c5.jpg"} />
 
             <Container fluid className="py-5">

@@ -6,7 +6,7 @@ import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 const ContactForm = () => {
     return (
         <Layout>
-            <Seo title={"Contact us"} descrption={"contact us"} />
+            <Seo title={"Contact KPI Shopfitter | Get a Free Quote Today"} descrption={"Contact KPI Shopfitter for a free, no-obligation quote. Call +44 7735 559454 or email kpishuttersuk@gmail.com. Based in Ilford, London — serving London, Essex, Kent and the UK."} />
             <PageHeading title={"Contact us"} image={"/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg"} />
 
             <Container className="py-5">
