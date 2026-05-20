@@ -78,7 +78,7 @@ const HeroSection = () => {
                         lineHeight: 1.15,
                     }}
                 >
-                    KPI SHOPFITTER
+                    KPI SHOPFITTER & SHUTTERS
                 </h1>
                 <p
                     className="fw-semibold mb-4 text-white"
