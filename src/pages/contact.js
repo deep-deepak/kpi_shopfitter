@@ -6,7 +6,7 @@ import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 const ContactForm = () => {
     return (
         <Layout>
-            <Seo title={"Contact KPI Shopfitter | Get a Free Quote Today"} descrption={"Contact KPI Shopfitter for a free, no-obligation quote. Call +44 7735 559454 or email kpishuttersuk@gmail.com. Based in Ilford, London — serving London, Essex, Kent and the UK."} />
+            <Seo title={"Contact KPI Shopfitter | Get a Free Quote Today"} descrption={"Contact KPI Shopfitter for a free, no-obligation quote. Call +44 7735 559454 or email info@kpishopfitter.co.uk. Based in Ilford, London — serving London, Essex, Kent and the UK."} />
             <PageHeading title={"Contact us"} image={"/kpimages/ad0a65fe-a4cf-40ec-b978-ae946b9e4dce.jpg"} />
 
             <Container className="py-5">
@@ -24,9 +24,9 @@ const ContactForm = () => {
                         </div>
                         <div className="mb-4">
                             <h5>E-mail:</h5>
-                            <a href="mailto:kpishuttersuk@gmail.com"
+                            <a href="mailto:info@kpishopfitter.co.uk"
                                 className=" text-decoration-none" style={{ color: "#F47920" }}>
-                                kpishuttersuk@gmail.com
+                                info@kpishopfitter.co.uk
                             </a>
                         </div>
                         <div className="mb-4">

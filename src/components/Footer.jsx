@@ -79,7 +79,7 @@ const Footer = () => {
                                 <p className="mb-0">Phone: +44 7735 559454</p>
                             </li>
                             <li className="mb-3">
-                                <p className="mb-0">Email: kpishuttersuk@gmail.com</p>
+                                <p className="mb-0">Email: info@kpishopfitter.co.uk</p>
                             </li>
                             <li className="mb-3">
                                 <p className="mb-0">Open: 24/7</p>

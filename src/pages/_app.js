@@ -89,7 +89,7 @@ export default function App({ Component, pageProps }) {
                 areaServed: "GB",
                 availableLanguage: "en",
               },
-              email: "kpishuttersuk@gmail.com",
+              email: "info@kpishopfitter.co.uk",
               sameAs: [
                 "https://x.com/KPIShopfitter",
                 "https://www.instagram.com/kpishopfitter/",
@@ -110,7 +110,7 @@ export default function App({ Component, pageProps }) {
               image: "https://kpishopfitter.co.uk/cover.jpg",
               url: "https://kpishopfitter.co.uk/",
               telephone: "+44-7735-559454",
-              email: "kpishuttersuk@gmail.com",
+              email: "info@kpishopfitter.co.uk",
               address: {
                 "@type": "PostalAddress",
                 streetAddress: "141 Richmond Road",
@@ -166,7 +166,7 @@ export default function App({ Component, pageProps }) {
                   name: "Do you offer free quotes?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "Yes — we offer free, no-obligation consultations and quotes for all projects. Call us on +44 7735 559454 or email kpishuttersuk@gmail.com.",
+                    text: "Yes — we offer free, no-obligation consultations and quotes for all projects. Call us on +44 7735 559454 or email info@kpishopfitter.co.uk.",
                   },
                 },
                 {

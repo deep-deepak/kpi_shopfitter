@@ -20,7 +20,7 @@ const faqs = [
     {
         id: 4,
         question: "Do you offer free quotes?",
-        answer: "Yes — we offer free, no-obligation consultations and quotes for all projects. Simply get in touch via our Contact page, call us on +44 7735 559454, or email kpishuttersuk@gmail.com and one of our team will be in touch promptly."
+        answer: "Yes — we offer free, no-obligation consultations and quotes for all projects. Simply get in touch via our Contact page, call us on +44 7735 559454, or email info@kpishopfitter.co.uk and one of our team will be in touch promptly."
     },
     {
         id: 5,
@@ -50,7 +50,7 @@ const faqs = [
     {
         id: 10,
         question: "How do I get started with KPI Shopfitter?",
-        answer: "Getting started is simple — call us on +44 7735 559454, email kpishuttersuk@gmail.com, or fill in the contact form on our Contact page. We will arrange a free site visit or consultation to understand your needs and provide a detailed quote."
+        answer: "Getting started is simple — call us on +44 7735 559454, email info@kpishopfitter.co.uk, or fill in the contact form on our Contact page. We will arrange a free site visit or consultation to understand your needs and provide a detailed quote."
     },
 ];
 
