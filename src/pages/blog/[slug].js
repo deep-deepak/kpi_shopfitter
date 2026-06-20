@@ -35,13 +35,15 @@ const BlogDetails = ({ blog }) => {
                         <h1 className="text-center mb-3">{blog.title}</h1>
                         {/* <p className="text-muted text-center">{blog.date}</p> */}
 
-                        <Image
-                            src={blog.image}
-                            alt={blog.title}
-                            className="rounded mb-4"
-                            width={"100%"}
-                            height={"450px"}
-                        />
+                        {blog.hideFeaturedImage !== true && (
+                            <Image
+                                src={blog.image}
+                                alt={blog.title}
+                                className="rounded mb-4"
+                                width={"100%"}
+                                height={"450px"}
+                            />
+                        )}
 
                         <div dangerouslySetInnerHTML={{ __html: blog.content }} className="blog-content" />
 
