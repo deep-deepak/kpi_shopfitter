@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import { FaInstagram, FaSeedling, FaTwitter, FaYoutube } from 'react-icons/fa';
+import { FaSeedling } from 'react-icons/fa';
 
 const Footer = () => {
     return (
@@ -30,17 +30,6 @@ const Footer = () => {
                                 />
                             </div>
                             <p className="mb-4" style={{ marginTop: "10px" }}>KPI Shopfitter specialises in aluminium shopfronts, curtain walling, roller shutters, automatic doors, and fire-rated solutions — delivering quality design, fabrication, and installation for commercial properties.</p>
-                        </div>
-                        <div className="d-flex gap-3 social_icon">
-                                            <Link href="https://x.com/KPIShopfitter" target='_blank' className="text-light hover:text-primary transition-colors">
-                                <FaTwitter size={24} />
-                            </Link>
-                            <Link href="https://www.instagram.com/kpishopfitter/" target='_blank' className="text-light hover:text-primary transition-colors">
-                                <FaInstagram size={24} />
-                            </Link>
-                            <Link href="https://www.youtube.com/channel/UCZsZxPrvAhV7TnzNZD601zA" target='_blank' className="text-light hover:text-primary transition-colors">
-                                <FaYoutube size={24} />
-                            </Link>
                         </div>
                     </Col>
 
