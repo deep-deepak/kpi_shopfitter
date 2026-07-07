@@ -82,13 +82,22 @@ export default function App({ Component, pageProps }) {
                 postalCode: "IG1 1JT",
                 addressCountry: "GB",
               },
-              contactPoint: {
-                "@type": "ContactPoint",
-                telephone: "+44-7735-559454",
-                contactType: "customer service",
-                areaServed: "GB",
-                availableLanguage: "en",
-              },
+              contactPoint: [
+                {
+                  "@type": "ContactPoint",
+                  telephone: "+44-7735-559454",
+                  contactType: "customer service",
+                  areaServed: "GB",
+                  availableLanguage: "en",
+                },
+                {
+                  "@type": "ContactPoint",
+                  telephone: "+44-330-133-3751",
+                  contactType: "customer service",
+                  areaServed: "GB",
+                  availableLanguage: "en",
+                },
+              ],
               email: "info@kpishopfitter.co.uk",
               sameAs: [
                 "https://x.com/KPIShopfitter",
@@ -137,6 +146,39 @@ export default function App({ Component, pageProps }) {
           }}
         />
 
+        {/* LocalBusiness Schema - Thornton Heath */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "LocalBusiness",
+              name: "KPI Shopfitter",
+              image: "https://kpishopfitter.co.uk/cover.jpg",
+              url: "https://kpishopfitter.co.uk/",
+              telephone: "+44-330-133-3751",
+              email: "info@kpishopfitter.co.uk",
+              address: {
+                "@type": "PostalAddress",
+                streetAddress: "90 Silverleigh Road",
+                addressLocality: "Thornton Heath",
+                addressRegion: "London",
+                postalCode: "SM5 3BA",
+                addressCountry: "GB",
+              },
+              openingHoursSpecification: [
+                {
+                  "@type": "OpeningHoursSpecification",
+                  dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                  opens: "09:00",
+                  closes: "18:00",
+                },
+              ],
+              priceRange: "££",
+            }),
+          }}
+        />
+
         {/* FAQPage Schema */}
         <script
           type="application/ld+json"
@@ -158,7 +200,7 @@ export default function App({ Component, pageProps }) {
                   name: "Which areas do you cover?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "We are based in Ilford, London and provide installation and support services across London, Essex, Kent, and surrounding areas throughout the UK.",
+                    text: "We are based in Ilford, London and Thornton Heath, and provide installation and support services across London, Essex, Kent, and surrounding areas throughout the UK.",
                   },
                 },
                 {

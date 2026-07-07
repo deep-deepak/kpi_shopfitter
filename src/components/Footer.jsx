@@ -60,12 +60,21 @@ const Footer = () => {
                         <h5 className="mb-4" style={{ color: "#F47920" }}>Contact Info</h5>
                         <ul className="list-unstyled">
                             <li className="mb-3">
+                                <p className="mb-0 fw-bold">Address 1:</p>
                                 <p className="mb-0">141 Richmond Road,</p>
                                 <p className="mb-0">Ilford, London IG1 1JT</p>
                                 {/* <p className="mb-0">Postal Code</p> */}
                             </li>
                             <li className="mb-3">
                                 <p className="mb-0">Phone: +44 7735 559454</p>
+                            </li>
+                            <li className="mb-3">
+                                <p className="mb-0 fw-bold">Address 2:</p>
+                                <p className="mb-0">90 Silverleigh Road,</p>
+                                <p className="mb-0">Thornton Heath, SM5 3BA</p>
+                            </li>
+                            <li className="mb-3">
+                                <p className="mb-0">Phone: 0330 133 3751</p>
                             </li>
                             <li className="mb-3">
                                 <p className="mb-0">Email: info@kpishopfitter.co.uk</p>

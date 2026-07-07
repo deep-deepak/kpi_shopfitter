@@ -19,10 +19,6 @@ const ContactForm = () => {
                         </div>
                         <br />
                         <div className="mb-4">
-                            <h5>Phone:</h5>
-                            <p className=" mb-0" style={{ color: "#F47920" }}>+44 7735 559454</p>
-                        </div>
-                        <div className="mb-4">
                             <h5>E-mail:</h5>
                             <a href="mailto:info@kpishopfitter.co.uk"
                                 className=" text-decoration-none" style={{ color: "#F47920" }}>
@@ -30,11 +26,26 @@ const ContactForm = () => {
                             </a>
                         </div>
                         <div className="mb-4">
-                            <h5>Address:</h5>
+                            <h5>Address 1:</h5>
                             <p className=" mb-0" style={{ color: "#F47920" }}>
                                 141 Richmond Road,<br />
                                 Ilford, London IG1 1JT
                             </p>
+                        </div>
+                        <div className="mb-4">
+                            <h5>Phone:</h5>
+                            <p className=" mb-0" style={{ color: "#F47920" }}>+44 7735 559454</p>
+                        </div>
+                        <div className="mb-4">
+                            <h5>Address 2:</h5>
+                            <p className=" mb-0" style={{ color: "#F47920" }}>
+                                90 Silverleigh Road,<br />
+                                Thornton Heath, SM5 3BA
+                            </p>
+                        </div>
+                        <div className="mb-4">
+                            <h5>Phone:</h5>
+                            <p className=" mb-0" style={{ color: "#F47920" }}>0330 133 3751</p>
                         </div>
 
                     </Col>
@@ -100,6 +111,11 @@ const ContactForm = () => {
             <Row>
                 <Col md={12} style={{ borderTop: "5px solid #F47920" }}>
                 <iframe src="https://maps.google.com/maps?q=141+Richmond+Road,+Ilford,+London+IG1+1JT,+England&output=embed" width="100%" height="450" style={{border:"0"}} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                </Col>
+            </Row>
+            <Row>
+                <Col md={12} style={{ borderTop: "5px solid #F47920" }}>
+                <iframe src="https://maps.google.com/maps?q=90+Silverleigh+Road,+Thornton+Heath,+SM5+3BA,+England&output=embed" width="100%" height="450" style={{border:"0"}} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                 </Col>
             </Row>
         </Layout>
