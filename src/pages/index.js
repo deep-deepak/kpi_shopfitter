@@ -10,6 +10,7 @@ import GallerySection from "@/containers/Gallery";
 import NewGallery from "@/containers/NewGallery";
 import VideoGallery from "@/containers/VideoGallery";
 import FaqSection from "@/landingpage/FaqSection";
+import ServiceAreas from "@/landingpage/ServiceAreas";
 import { FaArrowUp } from "react-icons/fa";
 import { BsChevronUp } from "react-icons/bs";
 import { Button } from "react-bootstrap";
@@ -80,6 +81,7 @@ export default function Home() {
         <VideoGallery />
         <ProjectGallery />
         <FaqSection />
+        <ServiceAreas />
         {/* <ScrollToTop /> */}
       </Layout>
 
