@@ -28,7 +28,7 @@ export async function getStaticProps({ params }) {
 const BlogDetails = ({ blog }) => {
     return (
         <Layout>
-            <Seo title={blog.metaTitle} descrption={blog.metaDesecription} />
+            <Seo title={blog.metaTitle} descrption={blog.metaDescription} />
             <Container className="mt-4" style={{ paddingTop: "150px" }}>
                 <Row className="justify-content-center">
                     <Col lg={10} md={12}>

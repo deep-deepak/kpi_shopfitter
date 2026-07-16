@@ -4,7 +4,7 @@ import { Container } from 'react-bootstrap';
 const logos = [
     { src: '/chas.avif', alt: 'CHAS Accredited Contractor' },
     { src: '/safecibtr.avif', alt: 'SafeContractor Approved' },
-    { src: '/doorsafe.avif', alt: 'DoorSafe Registered' },
+    { src: '/dhf.png', alt: 'dhf Registered' },
 ];
 
 const marqueeLogos = [...logos, ...logos, ...logos, ...logos];

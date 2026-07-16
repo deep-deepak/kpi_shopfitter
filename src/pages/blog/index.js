@@ -13,7 +13,7 @@ export default function Home() {
             <Container className="py-5">
                 <h1 className="text-center mb-4">Latest Articles</h1>
                 <Row>
-                    {blogPosts.map((post) => (
+                    {[...blogPosts].reverse().map((post) => (
                         <Col md={6} lg={4} key={post.id} className="mb-4">
                             <Card>
                                 <Card.Img variant="top" src={post.image} alt={post.title} style={{height:"280px"}}/>
